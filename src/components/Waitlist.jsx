@@ -7,7 +7,7 @@ jsxs("div", {
                 jsx("h3", {
                     className: "text-2x1 font-bold",
                     children: "Cloudline Enterprise is coming soon.", 
-                }),
+                });   
                 jsxs("p", {
                     className: "mt-01 text-xl",
                     children: [teams, " teams joined the waitlist."],
